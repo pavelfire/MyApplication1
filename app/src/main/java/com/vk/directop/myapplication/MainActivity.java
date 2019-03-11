@@ -19,6 +19,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public int powerAToB (int a, int b){
         b = a * b;
-        return b;
+        return a;
     }
 }
